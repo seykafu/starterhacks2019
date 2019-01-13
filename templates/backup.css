@@ -144,3 +144,47 @@ div.ex4 {
 div.arial {
   font-family: arial;
 }
+
+ul {
+  text-align: left;
+}
+
+/* Chat containers */
+div.container {
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 20px 0;
+  text-align: right;
+}
+
+/* Darker chat container */
+div.darker {
+  border-color: #ccc;
+  background-color: #ddd;
+}
+
+/* Clear floats */
+div.container::after {
+  content: "";
+  clear: both;
+  display: table;
+
+}
+
+/* Style images */
+div.container img {
+  float: left;
+  max-width: 60px;
+  width: 50%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+/* Style the right image */
+div.container img.right {
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
