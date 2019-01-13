@@ -1,0 +1,11 @@
+h2{
+  position: absolute;
+  font-family: arial;
+  left: 400px;
+  top: 100px;
+}
+
+p{
+  font-family: arial;
+  font-style: bold;
+}
