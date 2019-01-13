@@ -1,0 +1,41 @@
+h2{
+  position: absolute;
+  font-family: arial;
+  left: 400px;
+  top: 100px;
+  font-style: italic;
+}
+
+p{
+  width: 100px;
+  font-family: arial;
+  font-style: bold;
+}
+
+div.ex1 {
+  width: 100px;
+  text-align: left;
+}
+
+div.ex2{
+  font-family: arial;
+  font-style: bold;
+  text-align: right;
+}
+
+div.ex3{
+  text-align: center;
+}
+
+button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
