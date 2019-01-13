@@ -1,0 +1,13 @@
+How old are you?,<12,12-18,18-24,24-35,35+
+Do you have kids?No,Expecting,Yes
+Do own any of the following devices?,An Alexa device,Smart appliances,
+Do you enjoy reading and/or listening to podcasts/e-books? (Books & Audible),Yes,No
+Do you play video games?,Yes,No
+How often do you watch movies/TV shows?,Several times a week,Once a week,Several times a month,Rarely ever
+Are you into the latest tech?,Yes,No
+Do you enjoy gardening?,Yes,No
+Home, Garden, Pets & Tools question…
+Do you own any pets?,Yes,No
+How often do you cook/bake?,Everyday,Several times a week,Once a week,Less than once a week
+How often do you participate in physical activity?,Everyday,1-3 times per week,Several times a month,One or less than one time a month
+Do you own a car?,Yes,No
