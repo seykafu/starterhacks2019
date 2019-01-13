@@ -1,5 +1,5 @@
-from flask import Flask, render_template
-app = Flask(__name__)
+from flask import Flask, render_template, flash, request, url_for, redirect
+app = Flask(static_folder='C:\\Users\\kasey\\Desktop\\starterhacks\\starterhacks2019\\static')
 
 @app.route("/")
 def hello():
