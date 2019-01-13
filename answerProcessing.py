@@ -47,7 +47,17 @@ def main():
 
     csv_file.close()
     topThreeFINAL = nlargest(3, categoryData, key=categoryData.get)
-    return topThreeFINAL
+    categoryArray=[]
+    with open("CATEGORIES.txt","r") as categoryKey:
+        for row in categoryKey:
+            row=row.split(" ")
+            if "*" not in row[0]:
+                categoryArray.append(row[1])
+        categoryArray.sort()
+        print("Top Three Categories:\n")
+        for i in topThreeFINAL:
+            print(categoryArray[i])
+
 
 def processLine(line,categoryData):
     global keyString
