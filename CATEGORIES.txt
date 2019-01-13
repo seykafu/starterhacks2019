@@ -1,0 +1,45 @@
+*HEADER Video Games
+00 Console_Accessories
+01 PC_Gaming/Components
+02 Music_Movies_TVShows
+*HEADER Electronics, Computers & Office 
+03 Smart_Home
+04 Headphones_Speakers
+05 Camera_Photo_Video
+06 Cell Phones_Accessories
+07 Wearable_Technology
+08 Musical_Instruments
+09 Computer_Tablet_Accessories
+10 Hard Drives_Storage_Memory
+11 Software
+*HEADER Home, Garden, Pets & Tools
+12 Home_Décor
+13 Arts_Crafts_Sewing
+35 Books/Kindle
+*HEADER Household Supplies
+14 Kitchen_Appliances
+15 Patio_Garden
+16 Tools_Home_Improvement
+17 Pets
+*HEADER Health & Beauty
+18 Beauty
+19 Health_Personal_Care
+36 Toys_Kids_Baby_STEM
+*HEADER Clothing, Shoes & Jewelry
+20 Clothing
+21 Shoes
+22 Hats_Scarves_Socks
+23 Jewelry
+24 Watches
+25 Sunglasses
+*HEADER Sports & Outdoors
+26 Exercise_Fitness
+27 Hunting_Fishing
+28 Sports_Apparel
+29 Golf
+30 Outdoor_Gear
+31 Extreme_Sports
+32 Camping_Hiking
+33 Cycling
+34 Winter_Sports
+37 Automotive_Industrial	 
