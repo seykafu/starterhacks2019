@@ -1,0 +1,55 @@
+ID,Changes,Info,
+QQ1,What are you into?,,
+AA1,00;01;02;00;01;02 ,Video games,(Video games - 2)
+AA2,12;14;15;16;12;14;15;16 ,Home styling,"(Home Decor, Household supplies, Patio & Garden, Tools/Home Improvement - 2)"
+AA3,35;35,Reading ,(Books & Audible)
+AA4,03;04;05;06;07;08;09;10;11;03;04;05;06;07;08;09;10;11,Cool tech & gadgets,"(Electronics, Computers & Office)"
+AA5,14;14,Cooking/baking,(Kitchen Appliances - 2)
+AA6,2;2,"Film/TV (Music, Movies & TV Shows)","(Music, Movies & TV Shows)"
+AA7,13;13,Art ,"(Arts, Crafts & Sewing - 2)"
+AA8,26;27;28;29;30;31;32;33;34;26;27;28;29;30;31;32;33;34 ,Sports & Outdoors ,(Sports & Outdoors - 2)
+AA9,20;21;22;23;24;25;20;21;22;23;24;25 ,Fashion,"(Clothing, Shoes & Jewelry - 2)"
+AA10,37;37,Cars/Automobile, (Automotive & Industrial - 2)
+AA11,18;19;36;18;19;36 ,Health & Beauty ,(Health & Beauty - 2)
+QQ2,How old are you?,,
+AA1,36;36,<12,"Toys, Kids, Baby & STEM - 2"
+AA2,36;00,12 16,"Toys, Kids, Baby & STEM - 1, Console games"
+AA3,00;01;02;03;04;05;06;07;08;09;10;11;20,16 24,"Video games - 1, Electronics -1, Clothing-1, "
+AA4,03;04;05;06;07;08;09;10;11;12;20;21;22;23;24;25;14,24 35,"Electronics -1, ClothingShoesJewlery -1, Home DŽcor -1, Kitchen Appliances -1,  "
+AA5,14;15;16;29,35+,"Kitchen Appliances, Patio & Garden, Tools & Home Improvement, Golf - 1"
+QQ3,Do you have any children or pets?,,
+AA1,36,Children,"Toys, Kids, Baby, & STEM - 1"
+AA2,36,Expecting Children,"Toys, Kids, Baby, & STEM - 1"
+AA3,17;17,Pets,Pets - 2
+AA4,36;17;17,Both Children and Pets,"Toys, Kids, Baby, & STEM - 1, Pets - 2"
+AA5,,Neither,
+QQ4,How do you usually get around?,,
+AA1,30;33;33;26,Bike,"(Outdoor Gear - 1, Cycling - 2,Exercise & Fitness -1) "
+AA2,37;37,Car,(Automotive & Industrial - 2;)
+AA3,21;22,Walk,"Shoes-1, HatsScarvesSocks -1"
+AA4,4,Bus,Headphones&Speakers -1
+QQ5,You have a free afternoon. What activity do you choose?,,
+AA1,20;20;21;21;23;23,Go shopping,"(clothing, shoes & Jewelry- 2)"
+AA2,00;01;02;00;01;02 ,Play video ganes,(video games - 2)
+AA3,26;27;28;29;30;31;32;33;34;26;27;28;29;30;31;32;33;34 ,Play a sport,(Sports & Outdoors - 2)
+AA4,15;16;15;16;37;12;13,Fix up the house,"Household supplies -2, Automotive Industrial -1, Home dŽcor -1, Arts Crafts Sewing 1"
+AA5,35;35,Head to the library,(books/Kindle - 2)
+QQ6,How often do you update your wardrobe?,,
+AA1,20;20;21;21;23;23,More than once a month,"(Clothing, Shoes & Jewelry +2)"
+AA2,20;21;23,Less than once a month,"(Clothing, Shoes & Jewelry +1)"
+AA3,13,Almost never,"Arts, Crafts Sewing -1"
+QQ7,How often do you participate in physical activity?,,
+AA1,26;26;27;28;29;30;31;32;33;34;26;27;28;29;30;31;32;33;34;07,Everyday,"(Sports & Outdoors - 2, wearable tech -1"
+AA2,26;27;28;29;30;31;32;33;34;07,More than twice per week,"(Sports & Outdoors - 1, wearable tech -1"
+AA3,26,Several times per month,Exercise & fitness -1
+AA4,02;03,Once or less than once per month,"MusicMoviesTV-1, Smart Home"
+QQ8,How often do you listen to music?,,
+AA1,02;02;04;04;08,Every day,"(Music, Movies & TV Shows, Headphones & Speakers - 2, Musical instruments -1"
+AA2,02;04,More than twice per week,"(Music, Movies & TV, Headphones & Speakers - 1)"
+AA3,2,Several times per month,
+AA4,,Once or less than once per month,
+QQ10,What do you usually eat for dinner?,,
+AA1,12;14,Home-cooked food,(Home decor 1pt; Kitchen appliances 1pt)
+AA2,19;26,Health Food,"(Health & personal care 1pt, exercise & fitness 1pt)"
+AA3,02;,Fast food,"(Music, Movies, TV Shows 1pt)"
+AA4,23;24,Fine dining,"(Jewelry 1pt, Watches 1pt)"
