@@ -3,7 +3,7 @@ app = Flask(static_folder='C:\\Users\\kasey\\Desktop\\starterhacks\\starterhacks
 
 @app.route("/")
 def hello():
-    return render_template("backup.html")
+    return render_template("index.html", "backup.html")
 
 if __name__ == '__main__':
     app.run(debug=True)
