@@ -1,0 +1,23 @@
+h2{
+  position: absolute;
+  font-family: arial;
+  left: 400px;
+  top: 100px;
+  font-style: italic;
+}
+
+p{
+  font-family: arial;
+  font-style: bold;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100px;
+}
