@@ -3,6 +3,8 @@
 <head>
 	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
 	<!-- <link rel="stylesheet" type = "text/css" href="{{ url_for('static', filename = 'yum.css')}}" /> -->
+	<script src="jquery-3.3.1.min.js"></script>
+	<script src="/js/signup_submit.js"></script>
 	<link rel="stylesheet" type = "text/css" href = "backup.css" />
 	<title>
 		Quiz
@@ -10,7 +12,7 @@
 </head>
 <body bgcolor="#FFFFFF">
 <div class = "ex1">
-<b> gift<font color = "red">xchange</font></b> 
+<b> gift<font color = "red">xchange</font></b>
 </div>
 <div class = "ex2">
 <button class = "login">home</button>
@@ -37,6 +39,12 @@
 </div>
 
 <form action="">
+	<label for="inputEmail" class="sr-only">Your Email address</label>
+  <input type="email" name="inputEmail" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+	<br>
+	<label for="inputEmail_Recipient" class="sr-only">Recipient's Email address</label>
+  <input type="email" name="inputEmail" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+
   <div class = "arial">
   <input type="checkbox" id="a1" name="a1">
   <label for="a1">video games</label>
