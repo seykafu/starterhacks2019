@@ -99,6 +99,7 @@ div.rectangle {
 }
 
 span.circle {
+  color: white;
   width: 52px;
   height: 52px;
   background-color: #EB6258;
@@ -107,9 +108,6 @@ span.circle {
   font-size: 30px;
   text-align: center;
   line-height: 45px;
-  /*margin: 8px 4px;
-  left: 1335px;
-  top: 29px; */
 }
 
 span.square {
@@ -127,6 +125,10 @@ div.ex4 {
   height: 390px;
 }
 
-div.icons {
+#wrapper td {
+  vertical-align: middle;
   text-align: center;
+  font-family: arial;
+
 }
+
