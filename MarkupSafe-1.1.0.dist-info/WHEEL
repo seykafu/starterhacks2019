@@ -1,5 +1,9 @@
 Wheel-Version: 1.0
 Generator: bdist_wheel (0.32.2)
 Root-Is-Purelib: false
+<<<<<<< HEAD
 Tag: cp37-cp37m-win32
+=======
+Tag: cp34-cp34m-win_amd64
+>>>>>>> eb969d22fd53434ff01b7c37ea470c2990e37c5f
 
