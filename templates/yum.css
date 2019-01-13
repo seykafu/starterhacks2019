@@ -37,6 +37,7 @@ div.ex2{
   font-family: arial;
   font-style: bold;
   text-align: right;
+  padding-right: 20px;
 }
 
 div.ex3{
@@ -88,12 +89,44 @@ img {
 }
 
 div.rectangle {
-position: absolute;
-width: 1440px;
-height: 300px;
-left: 0px;
-top: 600px;
+  position: absolute;
+  width: 1440px;
+  height: 300px;
+  left: 0px;
+  top: 600px;
 
-background: #FFCAC6;
+  background: #FFCAC6;
 }
 
+span.circle {
+  width: 52px;
+  height: 52px;
+  background-color: #EB6258;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 30px;
+  text-align: center;
+  line-height: 45px;
+  /*margin: 8px 4px;
+  left: 1335px;
+  top: 29px; */
+}
+
+span.square {
+  display: inline-block;
+  margin-left: 50px;
+  width: 345px;
+  height: 345px;
+  background: #EB6258;
+  border-radius: 10px;
+  
+}
+
+div.ex4 {
+  width: 1240px;
+  height: 390px;
+}
+
+div.icons {
+  text-align: center;
+}
