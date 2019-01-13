@@ -37,7 +37,7 @@
 	<br>
 	You can select multiple answers.
 </div>
-
+<div class = "questions">
 <form action="">
 	<label for="inputEmail" class="sr-only">Your Email address</label>
   <input type="email" name="inputEmail" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
@@ -80,9 +80,29 @@
   <label for="a11">health and beauty</label>
 
 </div>
+
 </form>
 <br>
+<div>
 <button type = "submit" class = "signup submit">next</button>
+</div>
+</div>
+<script>
 
+var data = $('.questions').serializeArray();
+// result of data
+/*
+  data = [
+    {
+      name:"lang"
+      value:"fr"
+    },
+    {
+      name:"liste"
+      value:"2"
+    }
+  ];
+*/
+</script>
 </body>
 </html>
